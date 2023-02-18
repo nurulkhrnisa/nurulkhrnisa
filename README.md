@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hai guys!
+
+My name is **Nurul Khairunisa**.\
+I am a student at Semarang State University in the Mathematics study program.
+
+I am data scientist enthusiast.
 
 <!--
 **nurulkhrnisa/nurulkhrnisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
